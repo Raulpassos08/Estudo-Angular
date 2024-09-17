@@ -8,9 +8,12 @@ import { Component, OnInit } from '@angular/core';
 export class EmitterComponent implements OnInit{
   myNumber: number = 0
 
-  constructor(){}
+  constructor(){
+    
+  }
 
   ngOnInit(): void {
+
   }
 
   onChangeNumber(){
