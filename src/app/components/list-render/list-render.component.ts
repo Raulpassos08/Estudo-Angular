@@ -9,7 +9,8 @@ export class ListRenderComponent implements OnInit{
   animals = [
     {name: 'Zoe', type: 'Dogo Argentino'},
     {name: 'Alvo', type: 'Dogo Argentino'},
-    {name: 'Lua', type: 'Labrador'}
+    {name: 'Lua', type: 'Labrador'},
+    {name: 'Ogro', type: 'Pitbull'}
   ];
   
   constructor(){}
