@@ -12,7 +12,8 @@ export class ListRenderComponent implements OnInit{
     {name: 'Zoe', type: 'Dogo Argentino', age: 3},
     {name: 'Alvo', type: 'Dogo Argentino', age: 4},
     {name: 'Lua', type: 'Labrador', age: 2},
-    {name: 'Ogro', type: 'Pitbull', age: 3}
+    {name: 'Ogro', type: 'Pitbull', age: 3},
+    {name: 'pumba', type: 'Dogo', age: 3}
   ];
   
   animal: Animal = {
